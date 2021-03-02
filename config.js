@@ -12,7 +12,7 @@ var config = {
     chapters: [
         {
             id: '1',
-            alignment: 'center',
+            alignment: 'right',
             hidden: false,
             title: 'Pregled skijališta oko Sarajeva, 2021.',
             image: './images/vucko-1.png',
